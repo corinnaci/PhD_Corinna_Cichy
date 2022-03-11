@@ -11,7 +11,7 @@ library(ggplot2)
 library(GGally)
 
 # read input data
-DQ_data <- read_excel(Data_C.2.xlsx)
+DQ_data <- read_excel(Data_C.3.xlsx)
 
 # exploratory data analysis
 str(DQ_data) # initial data overview

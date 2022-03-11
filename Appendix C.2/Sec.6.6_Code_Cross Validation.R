@@ -11,7 +11,7 @@ library(randomForest)
 library(sets)
 
 # read input data
-DQ_data <- read_excel(Data_C.2.xlsx)
+DQ_data <- read_excel(Data_C.3.xlsx)
 
 #split the data set into folds for cross validation
 set.seed(222)
